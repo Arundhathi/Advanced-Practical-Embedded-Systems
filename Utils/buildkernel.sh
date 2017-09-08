@@ -25,4 +25,5 @@ sudo make -j4 #builds kernel files while running two threads per processor
 sudo make modules_install -j4 #builds all modules 
 sudo make install -j4 
 sudo update-grub #updates grub to include newly built kernel 
+cd
 
