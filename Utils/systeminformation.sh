@@ -17,7 +17,7 @@
 #kernel build time 
 #system arch information  
 
-/usr/bin/python systeminformation.py #executes python file to create text file with all required system information
+/usr/bin/python ~/Advanced-Practical-Embedded-Systems/Utils/systeminformation.py #executes python file to create text file with all required system information
 
 echo "Name of User is:" #prints out crrent sessions user name 
 whoami
