@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/hw4aru/testchardriver.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -T ./arch/arm/kernel/module.lds -o /home/ubuntu/hw4aru/testchardriver.ko /home/ubuntu/hw4aru/testchardriver.o /home/ubuntu/hw4aru/testchardriver.mod.o ;  true
